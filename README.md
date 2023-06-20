@@ -1,4 +1,4 @@
-# TheTechVault
+# CaptionCraft
 ![image](https://github.com/Aby-ss/TheTechVault/assets/103417697/c0e51ac2-efdf-4882-9bdc-d3bcb48a8e6a)
 
 ✏ - Artificial Intelligence for creating IG captions
