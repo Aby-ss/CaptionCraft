@@ -26,3 +26,6 @@ def caption_generations():
         progress.update(task2, advance=0.4)
         progress.update(task3, advance=0.7)
         time.sleep(0.02)
+
+    caption_prompt_panel = Panel(f"{caption_prompt}", box = box.SQUARE, border_style="bold white")
+    return caption_prompt_panel
